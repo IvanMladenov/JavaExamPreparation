@@ -30,7 +30,7 @@ public class PithagoreanNumbers {
 
         }
 
-        if (hasResults==false){
+        if (!hasResults){
             System.out.println("No");
         }
     }
