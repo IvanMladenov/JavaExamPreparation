@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59f4b281-dc26-47f1-ae87-bca602031289" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FireTheArrows.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SchoolSystem.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaExamPreparation.iws" />
@@ -51,11 +51,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FireTheArrows.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FireTheArrows.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FireTheArrows.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.93246186">
-              <caret line="84" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SchoolSystem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SchoolSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7777778">
+              <caret line="42" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -99,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/UserLogs.java" />
         <option value="$PROJECT_DIR$/src/LegoBlocks.java" />
         <option value="$PROJECT_DIR$/src/FireTheArrows.java" />
+        <option value="$PROJECT_DIR$/src/SchoolSystem.java" />
       </list>
     </option>
   </component>
@@ -178,22 +189,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Application.FireTheArrows">
-    <configuration default="false" name="Durts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Durts" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaExamPreparation" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.SchoolSystem">
     <configuration default="false" name="LettersChangeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="LettersChangeNumbers" />
@@ -242,6 +238,21 @@
     <configuration default="false" name="FireTheArrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="FireTheArrows" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaExamPreparation" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SchoolSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="SchoolSystem" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -402,19 +413,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Durts" />
-      <item index="1" class="java.lang.String" itemvalue="Application.LettersChangeNumbers" />
-      <item index="2" class="java.lang.String" itemvalue="Application.UserLogs" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LegoBlocks" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FireTheArrows" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LettersChangeNumbers" />
+      <item index="1" class="java.lang.String" itemvalue="Application.UserLogs" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LegoBlocks" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FireTheArrows" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SchoolSystem" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FireTheArrows" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LegoBlocks" />
-        <item index="2" class="java.lang.String" itemvalue="Application.UserLogs" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LettersChangeNumbers" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Durts" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SchoolSystem" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FireTheArrows" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LegoBlocks" />
+        <item index="3" class="java.lang.String" itemvalue="Application.UserLogs" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LettersChangeNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +443,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -558,14 +569,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ExamScore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DozensOfEggs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -949,8 +952,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FireTheArrows.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.93246186">
-          <caret line="84" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SchoolSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7777778">
+          <caret line="42" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
         </state>
       </provider>
